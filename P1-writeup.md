@@ -59,9 +59,3 @@ Another shortcoming could be that the detected lanes are not smooth enough and h
 Improvement for the light change would be to furthur improve the color-mask algorithm (step 1 and step 2) and combine different color filters in different color spaces (RGB, HSL).
 
 The improvement to smoothen the lanes could be to use the information from previous frames and introduce filters (moving average, kalman filter) to obtain more stable estimation of the lanes.
-
-
-
-```python
-
-```
