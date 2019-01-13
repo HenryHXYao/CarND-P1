@@ -48,12 +48,11 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 
 One potential shortcoming would be when there is shadow or light change, the algorithm will detect fake hough lines and fail to detect the lanes correctly, as the following two images shows in the challenge video:
-
-<img src="./test_videos_output/challenge1.JPG" width = 30% height = 30% /> <img src="./test_videos_output/challenge1_1.JPG" width = 30% height = 30% />
-
+<p align="center">
+  <img src="./test_videos_output/challenge1.JPG" width = 30% height = 30% /> <img src="./test_videos_output/challenge1_1.JPG" width = 30% height = 30% />
+</p>
 
 Another shortcoming could be that the detected lanes are not smooth enough and have oscillations during detection.
-
 
 ### 3. Suggest possible improvements
 
