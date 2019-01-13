@@ -6,7 +6,7 @@
 ### 1. Description on my pipeline. 
 
 My pipeline consisted of 7 steps.The images obtained in each step are plotted below and the order is from left to right and from up to bottom.
-<img src=" ./test_images_output/performance_check.png" width = 120% height = 120% />
+![](./test_images_output/performance_check.png)
 
 The steps from 2 to 6 are the same as the course introduces, so detailed explanations are ignored.
 
