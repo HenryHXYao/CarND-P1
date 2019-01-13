@@ -37,7 +37,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 ### The results on the tested images are:
 | solidWhiteCurve            |  solidWhiteRight  |              solidYellowCurve|
-|:-------------------------:|:-------------------------:|: ------------------------------:|
+|-------------------------|-------------------------| ------------------------------|
 ![](./test_images_output/solidWhiteCurve.jpg) | ![](test_images_output/solidWhiteRight.jpg)|![](test_images_output/solidYellowCurve.jpg)
 
 | solidYellowCurve2            |  solidYellowLeft  | whiteCarLaneSwitch|
